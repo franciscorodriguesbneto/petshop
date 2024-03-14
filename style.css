@@ -68,13 +68,7 @@ body {
     margin: 30px ;
     gap: 60px;
 }
-
-.card-img-top1 {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-    
-}
+ 
 
 .card {
     display: flex;
@@ -84,22 +78,7 @@ body {
     border: none;
 }
 
-.formulario {
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    margin-top: 10px;
-    border-radius: 10px;
-}
 
-form {
-    border: 1px solid black;
-    width: 300px;
-    padding: 10px;
-    border-radius: 10px;
-
-
-}
 
 
     
